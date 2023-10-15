@@ -1,0 +1,7 @@
+.option_wrapper{
+    display: flex;
+    gap: 8px;
+};
+.option_btn{
+    cursor: pointer;
+}
